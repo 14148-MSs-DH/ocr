@@ -1,0 +1,31 @@
+name: Generate index.html
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate index.html
+        run: |
+          echo "<!DOCTYPE html><html><head><meta charset="UTF-8"><link rel="stylesheet" type="text/css" href="./styles.css"><title>The Journal of Digital Humanities and Data Sustainability</title></head><body><div class="page"><div class="section">" > index.html
+          echo "<h1>The Journal of Digital Humanities and Data Sustainability</h1><h2>Volume 1</h2><ul>" >> index.html
+          for file in *.html; do
+            echo "<li><a href=\"$file\">$file</a></li>" >> index.html
+          done
+          echo "</ul></div></div></body></html>" >> index.html
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Auto-generate index.html" || exit 0
+          git push

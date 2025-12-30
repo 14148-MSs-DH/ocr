@@ -1,0 +1,71 @@
+www.nature. com/scientificreportsl
+Results
+Of the 1767 evaluated items in total, a statistically significant difference at the level of significance alpha 0.05
+between the scribes and the reference group based on Mann-Whitney U test and/or Chi-square test was found
+in only 68 (3.85%6); 34 significant differences were recorded on the skull and appendicular skeleton and 34 on the
+vertebrae. The results of the statistical analyses for these 68 traits are shown in Tables 1 and 2, separately for the
+skull and appendicular skeleton, and vertebrae (the complete results for all 1767 items are given in Supplementary
+Data S1 and Data S2). After adjustment using the Holm-Bonferroni correction, the number of statistically
+significant traits was reduced to 40. The traits that appeared non-significant after this correction were mainly
+scored on the lower limb and vertebrae. Although we recognize that the explanatory value of the differences
+between the scribes and the reference group is lower for those traits that were found to be significant using only
+the Mann- Whitney or chi-squared tests, we address them in the results and discussion.
+IThe observed statistically significant differences indicate a higher incidence of changes in scribes compared
+to the reference sample (61/68; 90%6; respective 37/40; 92.5%6 after Holm-Bonferroni correction) and manifested
+themselves especially in the occurrence of degenerative changes to the joints (OA and/or minor criteria) for both
+the appendicular skeleton and vertebrae.
+In terms of the OA changes on the skull and appendicular skeleton in scribes, a higher incidence was observed
+at the areas of both temporomandibular joints (Figs. 2, 3), the right clavicle, the right humeral caput, proximal
+articular surface of the right first metacarpal bone (CMC1) and the medial condyle of the right femur (Fig. 4).
+Differences in minor changes (SC, MC, C, NB) were also recorded on other joints of the appendicular skeleton
+(see Table 1), almost exclusively more frequently in scribes. Only two minor osteoarthritic changes showed a
+higher incidence in the reference sample: marginal changes (MC) on the right lateral surface of the patella and
+the trochlea of the humerus.
+As for the vertebral column, statistically significant differences of OA changes of apophyseal joints were more
+common than the alterations of vertebral bodies, i.e., intervertebral disc disease (IDD;, Table 2). All significant
+OA changes including the minor criteria occurred more often in scribes, except for the left upper facet of the
+T2 vertebra. A higher prevalence of OA in scribes was observed especially on the cervical vertebrae (C1, C2,
+C3, C7) and the T7 and L5 vertebra (Fig. 3). Minor OA changes were also noted on other vertebrae (Table 2).
+Differences in the incidence of IDD were recorded only on the lower surface of the C3 vertebra and the upper
+surface of the T3 vertebra, with a higher prevalence in scribes, and surface changes of the L2 upper surface in
+the reference sample.
+A statistically significantly higher incidence of EC in the scribes was noted at two attachment sites on the
+humerus (the margin of the left entheses of the subscapularis;, HSC Out, and the right infra-/supraspinatus; HSI
+Out) and on the left hip bone (ischial tuberosity), while in the reference sample only on the right femur (gluteus
+maximus). In the case of vertebral bodies, EC on the inferior part of the T4 body were significantly higher in the
+reference sample, while on the superior part of the L4 in scribes.
+Regarding NMT, vastus fossa on the both patellae and medial squatting facet on the right talus, were recorded
+more often in scribes, while a rounded edge pit on the right acetabulum was more typical for the reference sample
+The results of the statistical tests did not indicate significant differences in the age-at-death
+distribution between all the scribes and the reference group when all individuals evaluated were included
+(' = 0.208 y'a-0.05 =- 5.991; Mann-Whitney: Z-- 0.242, p-level =-0.809). However, due to differences in the
+preservation of the traits assessed, the representation of scribes and reference individuals in each age category
+varies for each trait. The consistency of the distribution of individuals in the age categories was therefore
+monitored separately for each trait using the Mann- Whitney U test (see last two columns of the Tables 1 and 2
+for selected traits; Supplementary Data S1 and Data S2 for complete results). These results reveal a different age
+distribution between scribes and the reference group for 35%6 of the traits evaluated (Supplementary Data S1
+and Data S2). Traits for which we found a statistically significant difference between scribes and the reference
+group show a different age distribution in half of the cases (see Table 1 and Table 2). Typically, there is a higher
+number of older individuals among the scribes. The possible influence of age on the observed differences should
+thus be taken into account for these traits.
+All evaluated markers were tested for side asymmetry by Wilcoxon Matched Pairs Test, separately for scribes
+and the reference sample. Statistically significant differences between the right and left sides were noted only for
+three traits in the scribes-EC: biceps brachii insertion on the radius (N=12; T-=0.000; ZL-2.023; p-level- 0.043),
+OA: mandibular fossa on the mandible (N -= 22; T-=0.000; ZL- 2.023; p-level =-0.043), NB: trochlea of humerus
+(N -=20, T- 0.000; ZL -2.023; p-level- 0.043) and three traits in the reference group - EC: ischial tuberosity on
+the pelvis (N-=- 18; T-=0.000; ZL-=- 2.20l1; p-level =-0.028), NMT: lateral extension of the trochlear surface on the
+talus (N- 24; T-0.000, Z-2.023; p-level-0.043), SC: glenoid cavity on the scapula (N- 31, T-0.000; Z-2.201;
+p-level -=-0.028).
+Discussion
+Professions involving scribal agenda was certainly not physically demanding, but neither can it be assumed
+that individuals of lower status buried at Abusir performed physically demanding activities on a daily basis.
+IThese were not labourers, but usually members of the household or relatives, performing activities related to
+the running of the household?2? The similar lifestyle of the two studied samples was manifested in the low
+number of evaluated traits showing statistically significant differences (3.85%), most of them showing a higher
+incidence among scribes (90%6).
+IThese statistically significant differences are in most cases reflected in the occurrence of degenerative joint
+changes. The intensity of these traits is usually attributed to inereasing agel`l.e2%, Although the statistical tests
+did not reveal any significant differences in the age-at-death distribution between the compared groups, the
+Scientific Reports] (o2) a4:4337
+https:lldo.or gl10.1038/s41598-02-63549-z
+natureportfolio

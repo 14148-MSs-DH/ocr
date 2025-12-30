@@ -1,1 +1,23 @@
 .DS_Store
+
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+*/venv/
+*/.venv/
+
+# Pyenv
+.python-version
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Virtualenv metadata
+pip-wheel-metadata/

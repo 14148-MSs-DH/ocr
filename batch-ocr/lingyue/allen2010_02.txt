@@ -1,0 +1,46 @@
+oi.uchicago.edu
+JAMES ALLEN
+that signify, that is, words, and what they signify or mean (Diogenes Laertius 7.62). And a
+good deal later, Saint Augustine (A.D. 354-430), who has much to say about signs, will treat
+scripture as a system of divinely given signs.
+Yet another use of ``sign'' is at least as common. ``Smoke is a sign of fire.'' ``Tracks of this
+kind are a sign that a leopard has passed this way.'' ``The fact that there is a ring around the
+moon is a sign that it will rain tomorrow.'' In cases like these there is, it seems, no question of
+anyone meaning something by the signs at issue. They serve, instead, as evidence or grounds
+for a conclusion - and this appears to be a very different thing indeed. Yet here too, even
+in the absence of someone who means something, we still speak of meaning. ``The fact that
+there is a ring around the moon means that it will rain tomorrow,'' ``Smoke means fire,'' and
+so on. These facts are the basis of the distinction between natural and non-natural meaning
+drawn in a celebrated article by H. P. Grice, who was himself looking back to a distinction
+of Saint Augustine's between natural and given signs (signa naturalia, signa data). Very
+roughly speaking, natural meaning, which belongs to natural signs as such, is the evidential
+support that a sign furnishes for a conclusion, while given signs are used by humans, or be-
+ings relevantly like them, in order to convey their thoughts to other such beings, where it is
+somehow essential if this task is to be effected that the recipient grasp that this is the intention
+of the sign's user.'
+The fact that the word ``meaning,'' with its very different history, also extends across
+the divide separating the natural from the non-natural or given divide suggests that it is not
+an accident that the same term ``sign'' comes to be used of these very different cases. They
+have, and were felt to have, something important in common. Thus according to Augustine,
+``a sign is something that brings it about by itself that something apart from the impression it
+makes on the senses comes to mind'' (De doctrina christiana 2.1. 1). We shall come back to
+the distinction between natural and given signs, which is one of those that I mean to suggest
+comes under strain.
+For the present, however, I shall concentrate on the natural side of the divide. A (natural)
+sign furnishes evidence: when all goes well, we come to know something distinct from it by
+inferring a conclusion from it. To discharge this function, it is not enough that the sign furnish
+grounds for the conclusion at issue, it must be better or more easily known than it, either in
+general or on the occasion of its use as a sign. This condition is enshrined in the requirement
+that a sign be revelatory, which is part of the Stoic definition of the sign as ``a true antecedent
+in a sound conditional revelatory of the consequent.''? So, for example, though the fact that
+ Grice 1957; cf. Grice 1982.
+they do not mean something in the way that bearers
+' Note that on a naturalist theory of the kind examined of natural meaning do, except in the way that any
+in the Cratylus, words will not necessarily be classi- vocal sound might. ``Words (in a language unknown
+fied as natural rather than given signs. According to to me) are being produced on the other side of that
+the version of naturalism elaborated by Socrates, the screen. This means there is someone speaking there,
+naturalness of a word is its fitness to be used as an or perhaps a parrot or a loudspeaker.''
+instrument by human beings to convey their thoughts P Sextus Empiricus, Outlines of Pyrrhonism 2.104;
+to each other in the way that is characteristic of non- Adversus mathematicos 8.245; [Galen] Historia
+natural meaning (434e). By themselves independently philosopha, ch. 9.
+of the use to which human beings put them, however,

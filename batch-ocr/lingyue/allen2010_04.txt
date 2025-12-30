@@ -1,0 +1,43 @@
+oi.uchicago.edu
+JAMES ALLEN
+one of the premises of the demonstration above, from the converted proposition, everything
+that does not twinkle is near, together with the fact, which can be established by observation,
+that the planets do not twinkle. Though the argument is no less valid and its premises and
+conclusion no less true, it is not a demonstration, strictly speaking, since the conclusion is not
+explained by the premises. The middle term, not-twinkling in this case, is not the cause; that
+is, it is not because the planets do not twinkle that they are near, though it is because they do
+not twinkle that, when guided by this argument, we are justified in concluding that they are
+near. In old-fashioned terms, not twinkling is the ratio cognoscendi not the ratio essendi,'
+But though not the cause, not-twinkling is evidence for the nearness of the planets or,
+alternatively, a sign of their being near. Elsewhere Aristotle gives examples of pairs of syl-
+logisms that share a conclusion, one of which is a demonstration, the other an inference from
+signs. For example, when the moon is eclipsed this can be demonstrated from the fact that it
+is undergoing interposition by the earth, which is the cause of the eclipse (Analytica poste-
+riora 2.8, 93a36ff.). The same conclusion can also be deduced from the fact that the moon is
+unable to produce a shadow despite being full. But the latter, namely being unable to produce
+a shadow, is not the cause of the moon being eclipsed, but merely a sign of it.
+Thus in Aristotle's hands talk of signs often signals a contrast between inferences that
+put us in a position to know the that and inferences that lay bare the causes thereby enabling
+us to understand the why. Signs are, if you will, mere evidence. Indeed the few remarks that
+Aristotle devotes explicitly to sign-inference are in passages concerned with forms of argu-
+ment that are most prominent in rhetoric, where the object is not a deeper understanding of
+the kind sought in the sciences, but the simple establishing of the facts (Analytica priora 2.27;
+Rhetorica 1.2, 1357a33ff.; 2.25, 1402b12ff.).'
+Two observations should be made before we proceed. First, some ancient philosophers,
+especially but not only the pre-Socratics, were happy to speak of signs in connection with
+inferences by means of which the sciences are constituted and an understanding of the ultimate
+causes at work in nature secured (if not quite in the Aristotelian way). This seems often to
+coincide with a tendency not to draw the kind of distinctions between types of inference and
+types of ground that we have been considering, or at least not to assign it a place of such cen-
+tral importance. Epicurus is an example, about whom I shall have more to say soon. Second,
+for those who do make the distinction, experience (cetpi, experientia) is an especially
+fruitful source of sign-inferences of the less exalted sort.
+Since at least the time of Plato and Aristotle, experience was conceived in something
+like the following way. It arises out of repeated episodes of perception and is confined to the
+objects that fall under perception, which are, if you will, inferentially brute or discrete: by
+themselves and as such, they imply nothing substantively different from their own existence.
+Nevertheless, observation of recurring patterns of sequence and conjunction among such ob-
+jects furnishes us with a stock of empirical generalizations, which are of great value not least
+in supporting sign-inferences like that from smoke to fire.
+`Compare Patzig 1981.
+PCompare Burnyeat 1982: 194-206.

@@ -1,0 +1,43 @@
+oi.uchicago.edu
+GREEK PHILOSOPHY AND SIGNS
+According to the view in question, however, no amount of experience by itself is suf-
+ficient to uncover the underlying natures of things because of which they behave as they are
+observed to do; these natures are the causes in terms of which genuine explanations must be
+framed, and they can be revealed, if at all, only by the insights of a special faculty of reason.
+Plato, Aristotle and those who follow them on this point insist that a real art (v) and real
+knowledge (ctotr) must go beyond experience to grasp the causes with the aid of reason
+conceived in this special way. The other distinction with which we shall be chiefly concerned
+is that between reason and experience.
+These facts need to be kept in view as we turn to what is far and away the most extensive
+discussion of signs in surviving ancient Greek philosophical literature, that found in Sextus
+Empiricus, who was a Pyrrhonian Sceptic active, probably, in late second century A.D. His
+task as a sceptic was to call into question pretensions to knowledge in each department of
+philosophy. To this end, he adopts a framework dividing philosophy into parts, within which
+he expounds in enormous and enormously valuable detail the views of his dogmatic opponents
+before undertaking to refute them. He tackles epistemology first (which belongs to the logical
+division of philosophy as the ancient Greeks conceived it), and he treats as common ground
+a division of labor between the criterion, on the one hand, and signs and proofs on the other
+(Adversus mathematicos 7.24-26, cf. 396; 8.140, 319; Outlines of Pyrrhonism 2.96).
+Knowledge of evident matters is the province of the criterion according to the framework
+that he adopts, and the truths won with its aid are in turn the basis of inferences by signs or
+demonstrations that promise to extend knowledge to the realm of the non-evident. It is plain
+that in setting up this framework Sextus does not distinguish between the function of signs
+and that of demonstrations and that he assigns to both an elevated part in the formation of
+natural philosophical theory.
+The views that Sextus goes on to present and examine when he turns to signs do not really
+fulfill the corresponding expectation, however, and this is only the first in a series of peculiari-
+ties in his account. His discussion is framed in terms of a distinction between commemora-
+tive and indicative signs, only the former of which, he says, are acceptable to the Pyrrhonists
+(Outlines of Pyrrhonism 2.200-01; cf. Adversus mathematicos 8.154).
+A commemorative sign is: ``that which, having been evidently co-observed with the
+signified, together with its occurrence when the signified matter is non-evident, leads
+us into a recollection of what was co-observed with it but is now not manifest.''
+An indicative sign is: ``that which has not been evidently co-observed with the signi-
+fied, but from its own nature and constitution signifies that of which it is a sign.''
+Though this distinction is philosophical in the sense of being concerned with episte-
+mological issues of completely general import, there are good reasons to believe that it was
+not the creation of professional philosophers, but rather had its origin in the context of the
+long-running debate between the self-styled Empirical school of medicine, which arose in the
+mid-third century B.C., and its opponents, the medical rationalists.
+ For arguments supporting this conclusion, see Allen
+2001: 107ff., who follows Philippson 1881: 65ff.

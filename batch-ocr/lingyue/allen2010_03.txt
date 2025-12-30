@@ -1,0 +1,49 @@
+oi.uchicago.edu
+GREEK PHILOSOPHY AND SIGNS
+it is light follows from the fact that is it day, the latter can hardly be a sign of the former.
+One cannot know that it is day without, at the same time, knowing that it is light. Compare
+the familiar examples cited earlier: smoke as a sign of fire, tracks as the sign of an animal's
+passage, and the like. Knowledge of the sign is, so to speak, given to us directly, while that
+of which it is a sign comes to be known through the sign.
+The ancient Greek vipto and Latin evidentia mean the quality of being evident or
+manifest, which I believe remains the dominant sense of ``evidence'' in modern European
+languages apart from English. To serve as evidence for or of a conclusion, a sign must exhibit
+evidence in this sense in addition to furnishing grounds for a conclusion, either absolutely or
+by comparison with the conclusion for which it is evidence, which fact seems to lie behind
+the sense of the term meaning evidence for a conclusion.
+There is another pervasive, if not completely ubiquitous, feature of the ancient Greek
+philosophical thought about signs that calls for comment. Inference from signs often, though
+not always, makes up the inferior side of a contrast with forms of inference, sometimes called
+``demonstrations'' (d6doettg), that are, in one way or another, superior to it. The version of
+this contrast that we find in Aristotle, where for the most part it is implicit, is representative.
+According to him, one has knowledge, at least in the strict and favored sense, not when one
+has a true belief and is justified in holding it - the condition that we tend to mean when we
+speak of knowledge and the focus of most contemporary epistemology - but rather when, in
+addition, one understands why matters are as one knows them to be, that is, grasps the cause
+or explanation for their being so. This is knowing the because as opposed to knowing (merely)
+the that, as Aristotle often puts it, and it is this condition that deserves above all to be called
+knowledge in his view.
+The first principles of a science, in terms of which everything in the domain of that science
+is to be explained, are themselves self-explanatory, not by being self-evident, but in the sense
+that, while other things are explained and understood by reference to them, they are not un-
+derstood or explained by reference to other more fundamental principles. When he is adhering
+strictly to his own technical terminology, Aristotle calls our grasp of them not ``knowledge''
+(totl) but voiOg, ``intuition'' or however else we choose to translate this elusive term.
+Knowledge or etotrp, most properly so called, is confined to derivative truths, which one
+must grasp as consequences of the first principles by which they are necessitated and explained
+if one is to know them in this favored sense. According to Aristotle, this condition consists in
+the grasp of an argument or syllogism of a special kind, viz., a demonstration, which in turn
+is defined as a syllogism by grasping which we know (Nicomachean Ethics 6.3, 1139b31-2;
+Analytica posteriora 1.2, 71b18).
+Consider a favorite example of his: the demonstration that the planets do not twinkle
+(Analytica posteriora 1.13, 78a30-b4). Not-twinkling belongs to all that is near, nearness
+belongs to the planets; therefore the planets do not twinkle. Those familiar with Aristotelian
+logic will recognize this as a categorical syllogism in the first figure mood, Barbara. A crucial
+feature of a demonstration, according to Aristotle, is that the so-called middle term, in this
+case nearness, state the cause or explanation. It is because the planets are near that they do not
+twinkle, and it is, therefore, by grasping this syllogism that one understands why the planets
+do not twinkle at the same time as one grasps that they do not.
+But suppose, says Aristotle, that the premise stating that not-twinkling belongs to all that
+is near converts, that is, not only does not-twinkling belong to everything that is near but near-
+ness belongs to everything that does not twinkle. In these conditions, it is possible to construct
+an argument, also a syllogism in Barbara, that deduces the conclusion that the planets are near,

@@ -1,0 +1,39 @@
+oi.uchicago.edu
+vD ILI T
+GREEK PHILOSOPHIY AND SIGNS
+ DTII
+T rY
+JAMES ALLEN, UNIVERSITY OF PITTSBURGH
+Our term ``sign'' comes, of course, straight from the Latin signum, which in turn renders
+the Greek opiov, whose range of uses it tracks pretty closely. Not only the term, but the
+idea or complex of ideas for which it stands are an inheritance from Greco-Roman antiquity.
+If in this area as in so many others the Romans were indebted to the Greeks, here as elsewhere
+the Hellenic world was indebted to the ancient Near Eastern civilizations that preceded and
+coincided with it. The issues raised by these debts lie outside the scope of this essay, the aim
+of which is twofold. I want to sketch, in very rough outline, some of the main developments
+in ancient Greek thinking about signs. To that end, I shall be exploring some of the distinc-
+tions in which that thought is enshrined. But I also want to look at some corners of ancient
+Greek thought about this subject that are not captured, or at any rate are accommodated only
+with some strain, by the framework to which these distinctions belong. In the way of even the
+best and most illuminating efforts to distinguish and classify, these distinctions do not cover
+all cases equally well, and as often happens, it is the cases that impose the most strain on, a
+system or framework that are in some ways the most interesting.
+As a first approximation, we might say that a sign is something that has or conveys mean-
+ing. This proposal is on the right lines, but baldly stated it has the potential to mislead. Talk
+of ``meaning'' inevitably brings to mind words, statements, and the like - in a word, language
+or language-like communication devices such as coded messages or signals.
+It is not that we do not find the ancient term ``sign'' and the verb ``signify'' employed in
+this way. This use is well and amply attested. Plato's Cratylus was the most sustained and
+influential contribution to the long-running ancient debate about whether word-meaning is
+simply a matter of convention or there is, rather, a natural standard of correctness that gov-
+erns the relation between words and their meanings so that some words are better suited by
+nature to mean certain things than others. The naturalist theory expounded and subjected to
+critical examination by Socrates in the dialogue envisages original legislators of names who
+are said to have fashioned ``a sign and a name for each existing thing'' (427c). In the passage
+in Plato's Sophist where for the first time the function of a name, viz. to pick out or refer to
+an object, is distinguished from that of a statement, wherein a predicate is joined to the name
+to assert something of the object designated by the name, the words composing the statement
+are described as ``signs consisting in speech'' (262d). Aristotle calls words ``signs'' in his
+discussion of the statements composed out of them in the De interpretatione (16al6, b7, 10).
+Stoic dialectic, which corresponds roughly to our discipline of logic but also covers much
+of the ground covered by grammar and theory of meaning, Was concerned both with things

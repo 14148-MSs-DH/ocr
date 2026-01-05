@@ -1,0 +1,44 @@
+oi.uchicago.edu
+JAMES ALLEN
+The Empiricists accepted the challenge laid down by Plato and Aristotle and undertook
+to show that experience was entirely sufficient to give rise to an art by itself without the aid
+of reason in the special sense in which it refers to a faculty whose distinctive characteristic is
+the ability to grasp truths not accessible to observation. Rationalism, on the other hand, was
+not a single school, but a tendency common to medical thinkers of diverse views belonging
+to different schools who were united only by the conviction that a true art must go beyond
+experience and grasp the hidden natures and causes of things by means of reason.
+The commemorative sign was, it seems, the favored tool of the Empiricists; the indicative
+sign that of the rationalists. Both seem to have their home in the practice of an art rather than
+the original process of constituting one. Commemorative signs point to evident events and
+conditions with which they have been conjoined in past experience. In the sphere of medicine,
+indicative signs reveal the hidden, pathological conditions underlying the patient's symptoms,
+which in turn indicate the appropriate therapy. To be sure, indicative signs could perhaps be
+viewed as playing a double role, as the means by which theory is applied to particular cases in
+practice and as the means by which elements in the theory are inferred from evident observa-
+tion in the first place, which would make for closer fit with Sextus' framework. There is little
+evidence for this, however.
+Let me mention two more important oddities. If there was a position that does meet the
+expectations created by Sextus' framework, it would seem to be that of Epicurus and his fol-
+lowers, who make explicit appeals to signs as the basis of their theories about non-evident
+matters in the realm of natural philosophy, atoms, and the motions of distant heavenly bodies,
+for instance. But though he mentions Epicurus a couple of times in passing, Sextus has nothing
+substantive to say about Epicurean views (Adversus mathematicos 8.177, 185).
+On the other hand, he devotes much attention to the Stoics, whose definition of the sign
+I cited above. But this turns out to be perhaps the most puzzling thing of all in Sextus' treat-
+ment of signs. He has, as we have seen, no complaint against the commemorative sign and
+promises to direct his fire exclusively on indicative signification. The Stoic theory against
+which he argues should then be a theory of indicative signification, or at least have its primary
+application to indicative signs whether the Stoics used this terminology or not. And indeed the
+text of Sextus plainly states that the Stoic definition is merely an alternative characterization
+of the indicative sign (Outlines of Pyrrhonism 2.102). So awkward is the placement of this
+assertion, and so poorly does it fit its context, however, that scholars, including the editor of
+the standard edition, have rejected it as an interpolation. If this is right, as there is good reason
+to believe that it is, what we have is an ill-fated effort to paper over a gap between Sextus'
+avowed purpose to combat the indicative sign and the prominence he gives to the case against
+a Stoic theory whose relation to indicative signs is the opposite of clear.
+Indeed, such evidence as we have points to a closer affinity with empirical reasoning of
+the kind that falls under the head of commemorative signification. Unlike the Empiricists,
+the Stoics did not question the possibility of grasping the hidden natures of things or reject
+causal explanations based on them. Indeed Sextus also preserves a Stoic theory of demonstra-
+tion whose chief application appears to have been causal explanation in natural philosophy,
+which is accorded its own discussion by Sextus (Outlines of Pyrrhonism 2.134-92; Adversus

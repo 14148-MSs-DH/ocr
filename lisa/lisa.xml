@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>OCR Exercise</title>
+        <author>Lisa Martingano</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished exercise for class.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>OCR output of the first page of Med. Laur. Plut. 23 sin.4 manuscript processed with Kraken.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text xml:lang="la">
+    <body>
+      <head>M. TVLLII CICERONIS DEORATORE LIBER PRIMVS<lb/>
+            FOELICITER INCIPIT.</head>
+      <p>Cogitanti mihi saepenumero. et memoria uetera repeten-<lb/>
+         ti. perbeati fuisse. Q. frater. illi uideri solent. qui in opti-<lb/>
+         ma. re. p. quom et honoribus et rerum gestarum gloria florerent.<lb/>
+         eum uite cursum tenere potuerunt. ut uel in negotio sine periculo.<lb/>
+         uel in otio cum dignitate esse possent. ac nunc quidem mihi quoque<lb/>
+         initium requiescendi: atque animum ad utriusque nostrum praeclara<lb/>
+         studia referendi: fore iustum et prope ab omnibus concessum esse<lb/>
+         arbitrarer. si infinitus forensium rerum labor et ambitionis oc-<lb/>
+         cupatio de cursu honorum: etiam aetatis flexu constitisset. quam
+      </p>
+    </body>
+  </text>
+</TEI>
